@@ -1,0 +1,45 @@
+{
+    "HOME": [ 
+        "Specials", 
+        "Account", 
+        "Cart", 
+        "Checkout"
+    ],
+    "APPAREL & ACCESSORIES": [
+        "Shoes",
+        "T-shirts"
+    ],
+    "MAKEUP": [
+        "Cheeks",
+        "Eyes",
+        "Face",
+        "Lips",
+        "Nails",
+        "Value Sets"
+    ],
+    "SKINCARE": [
+        "Eyes",
+        "Face",
+        "Gift Ideas & Sets",
+        "Hands & Nails",
+        "Sun"
+    ],
+    "FRAGRANCE": [
+        "Men",
+        "Women"
+    ],
+    "MEN": [
+        "Body & Shower",
+        "Fragrance Sets",
+        "Pre-Shave & Shaving",
+        "Skincare"
+    ],
+    "HAIR CARE": [
+        "Conditioner",
+        "Shampo"
+    ],
+    "BOOKS": [
+        "Audio CD",
+        "Paperback"
+    ]
+}

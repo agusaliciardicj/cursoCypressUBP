@@ -1,0 +1,28 @@
+{
+  "name": "cursocypressubp",
+  "version": "1.0.0",
+  "description": "Curso de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/agusaliciardicj/cursoCypressUBP.git"
+  },
+  "keywords": [
+    "cypress",
+    "js",
+    "testing"
+  ],
+  "author": "UBP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agusaliciardicj/cursoCypressUBP/issues"
+  },
+  "homepage": "https://github.com/agusaliciardicj/cursoCypressUBP#readme",
+  "dependencies": {
+    "cypress": "^9.7.0",
+    "cypress-real-events": "^1.7.1"
+  }
+}

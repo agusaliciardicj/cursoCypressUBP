@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "user": "agusDarwoft",
+            "password": "automation"
+        },
+        {
+            "user": "agus2",
+            "password": "automation2"  
+        }
+    ]
+}
