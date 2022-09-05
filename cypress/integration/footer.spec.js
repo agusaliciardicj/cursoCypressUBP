@@ -14,7 +14,7 @@ describe("Test de Footer", () => {
 
     header.getLoginRegisterButon().click();
 
-    login.getUserInput().type("HolaMundo");
+    login.getUserInput().type("HolaMundo!!!");
     login.getPassInput().type("HolaMundo");
     login.getLoginBtn().click();
 
