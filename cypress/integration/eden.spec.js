@@ -4,11 +4,11 @@ describe("Test de Página Eden", () => {
     cy.callService("inicio", "espectaculos");
   });
 
-  it("Llamada a servicio: /puntosdeventas", () => {
+  it.only("Llamada a servicio: /puntosdeventas", () => {
     cy.callService(
       "puntosdeventas",
       "puntosdeventas",
-      "../schemas/puntosdeventa_sch.json"
+      "puntosdeventa_sch.json"
     );
   });
 });

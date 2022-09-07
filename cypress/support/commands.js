@@ -32,7 +32,7 @@ const ajv = new Ajv();
  * @param {string} lastUrl - Última parte del endpoint que se concatenará con el resto
  * @param {string} fileName - Nombre del archivo de salida
  */
-Cypress.Commands.add("callService", (lastUrl, fileName, schema = "") => {
+Cypress.Commands.add("callService", (lastUrl, fileName, schema = false) => {
   cy.request({
     method: "GET",
     url:
@@ -43,16 +43,28 @@ Cypress.Commands.add("callService", (lastUrl, fileName, schema = "") => {
     cy.log(JSON.stringify(response));
     cy.writeFile("cypress/fixtures/eden/" + fileName + ".json", response.body);
 
-    if (schema == "") {
+    if (!schema) {
       cy.log("No hay validación de esquema");
     } else {
-      const validate = ajv.compile(schema);
-      const valid = validate(response.body);
-      if (!valid) {
-        cy.log("Hay un error en el esquema");
-      } else {
-        cy.log("El esquema está bien");
-      }
+      cy.fixture(schema).then((JsonFile) => {
+        //Linea nueva
+        /* Que paso???
+        el "schema" era igual a "../schemas/puntosdeventa_sch.json"... es decir a ese texto... 
+        cuando en realidad yo lo que quería era: 
+        {
+            "type": "array",
+            "items": {
+            "type": "object",
+        Entonces lo que hacemos es levantar el archivo con el cy.fixture
+         */
+        const validate = ajv.compile(JsonFile);
+        const valid = validate(response.body);
+        if (!valid) {
+          cy.log("Hay un error en el esquema");
+        } else {
+          cy.log("El esquema está bien");
+        }
+      }); //Linea nueva
     }
   });
 });
