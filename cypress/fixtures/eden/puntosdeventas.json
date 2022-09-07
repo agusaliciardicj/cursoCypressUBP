@@ -1,0 +1,14 @@
+[
+  {
+    "ID": 1,
+    "NombreFantasia": "Disquerías Edén",
+    "Direccion": "Obispo Trejo 15",
+    "HorarioAtencion": "Lunes a Viernes de 09:30 a 17:45 y Sábados de 09:00 a 13:00 Hs",
+    "MediosPago": "Tarjeta Crédito - Efectivo",
+    "Latitud": -31.4157138,
+    "Longitud": -64.1856459,
+    "Region": "Centro",
+    "ComoLlegar": "",
+    "Imagen": "https://static.edenentradas.com.ar/sitio/shows/pdv_EDENCENTRAL.jpg"
+  }
+]

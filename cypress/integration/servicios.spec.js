@@ -14,7 +14,7 @@ describe("Test de Servicios", () => {
     });
   });
 
-  it.only("Check UI", () => {
+  it("Check UI", () => {
     cy.visit("https://www.edenentradas.com.ar/sitio/contenido/inicio");
     const eden = new EdenPage();
 

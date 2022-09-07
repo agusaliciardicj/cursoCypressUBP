@@ -1,0 +1,50 @@
+{
+    "type": "array",
+    "items": {
+      "type": "object",
+      "required": [
+        "ID",
+        "NombreFantasia",
+        "Direccion",
+        "HorarioAtencion",
+        "MediosPago",
+        "Latitud",
+        "Longitud",
+        "Region",
+        "ComoLlegar",
+        "Imagen"
+      ],
+      "properties": {
+        "ID": {
+          "type": "integer"
+        },
+        "NombreFantasia": {
+          "type": "string"
+        },
+        "Direccion": {
+          "type": "string"
+        },
+        "HorarioAtencion": {
+          "type": "string"
+        },
+        "MediosPago": {
+          "type": "string"
+        },
+        "Latitud": {
+          "type": "number"
+        },
+        "Longitud": {
+          "type": "number"
+        },
+        "Region": {
+          "type": "string"
+        },
+        "ComoLlegar": {
+          "type": "string"
+        },
+        "Imagen": {
+          "type": "string"
+        }
+      }
+    }
+  }

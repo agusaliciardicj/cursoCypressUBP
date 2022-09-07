@@ -420,29 +420,6 @@
       "FechaPrimerEspectaculo": "20221015"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220929jhayco.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Jhay Cortez",
-      "Fecha": "Jueves 29 de Septiembre 21hs",
-      "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW005995",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020731",
-          "Fecha": "2022-09-29T21:00:00",
-          "FechaString": "29 de septiembre",
-          "DiaString": "29",
-          "MesString": "septiembre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Plaza de la Musica"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220929"
-    },
-    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/ciro-eden.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -545,7 +522,30 @@
       "FechaPrimerEspectaculo": "20221028"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/grafica eden.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220929jhayco.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Jhay Cortez",
+      "Fecha": "Jueves 29 de Septiembre 21hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW005995",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020731",
+          "Fecha": "2022-09-29T21:00:00",
+          "FechaString": "29 de septiembre",
+          "DiaString": "29",
+          "MesString": "septiembre",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20220929"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/grafica eden (1).jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
       "Nombre": "Jairo",
@@ -637,6 +637,29 @@
       "FechaPrimerEspectaculo": "20221007"
     },
     {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/lpdasf.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Las Pastillas del Abuelo",
+      "Fecha": "Viernes 14 de Octubre 20hs",
+      "Lugar": "Bombero San Francisco",
+      "Codigo": "SHOW005892",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020698",
+          "Fecha": "2022-10-14T20:00:00",
+          "FechaString": "14 de octubre",
+          "DiaString": "14",
+          "MesString": "octubre",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "San Francisco",
+          "Estadio": "Bomberos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221014"
+    },
+    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/bach_eden.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -683,29 +706,6 @@
       "FechaPrimerEspectaculo": "20220910"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/lpdasf.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Las Pastillas del Abuelo",
-      "Fecha": "Viernes 14 de Octubre 20hs",
-      "Lugar": "Bombero San Francisco",
-      "Codigo": "SHOW005892",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020698",
-          "Fecha": "2022-10-14T20:00:00",
-          "FechaString": "14 de octubre",
-          "DiaString": "14",
-          "MesString": "octubre",
-          "HoraString": "20:00 Hs",
-          "Ciudad": "San Francisco",
-          "Estadio": "Bomberos"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221014"
-    },
-    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2022-09-05 at 09.41.06.jpeg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -729,17 +729,17 @@
       "FechaPrimerEspectaculo": "20221014"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/picasion.com_c4b53f6e9ebb9775874d44d4155ebb38.gif",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221001do.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Don Osvaldo Canje - Bahia Blanca",
+      "Nombre": "Don Osvaldo Bahia Blanca",
       "Fecha": "Sábado 1 de Octubre 20hs",
       "Lugar": "FISA - Predio de la Corporación y el Comercio",
-      "Codigo": "SHOW006072",
+      "Codigo": "SHOW006071",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC021004",
+          "Codigo": "FUNC021003",
           "Fecha": "2022-10-01T20:00:00",
           "FechaString": "1 de octubre",
           "DiaString": "01",
@@ -752,17 +752,17 @@
       "FechaPrimerEspectaculo": "20221001"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221001do.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/picasion.com_c4b53f6e9ebb9775874d44d4155ebb38.gif",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Don Osvaldo Bahia Blanca",
+      "Nombre": "Don Osvaldo Canje - Bahia Blanca",
       "Fecha": "Sábado 1 de Octubre 20hs",
       "Lugar": "FISA - Predio de la Corporación y el Comercio",
-      "Codigo": "SHOW006071",
+      "Codigo": "SHOW006072",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC021003",
+          "Codigo": "FUNC021004",
           "Fecha": "2022-10-01T20:00:00",
           "FechaString": "1 de octubre",
           "DiaString": "01",
@@ -911,6 +911,29 @@
         }
       ],
       "FechaPrimerEspectaculo": "20220910"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221006katana.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Katana XL",
+      "Fecha": "Jueves 6 de Octubre 23.59hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW006028",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020863",
+          "Fecha": "2022-10-06T23:59:00",
+          "FechaString": "6 de octubre",
+          "DiaString": "06",
+          "MesString": "octubre",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221006"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/alice.jpg",
@@ -1101,43 +1124,20 @@
       "ImagenPortada": "",
       "ImagenListado": "",
       "Nombre": "Planeador V",
-      "Fecha": "Viernes 9 de Septiembre 21hs",
+      "Fecha": "Viernes 9 de Septiembre 23.30hs",
       "Lugar": "El Perla Eventos",
       "Codigo": "SHOW006051",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
           "Codigo": "FUNC020937",
-          "Fecha": "2022-09-09T21:00:00",
+          "Fecha": "2022-09-09T23:30:00",
           "FechaString": "9 de septiembre",
           "DiaString": "09",
           "MesString": "septiembre",
-          "HoraString": "21:00 Hs",
+          "HoraString": "23:30 Hs",
           "Ciudad": "Villa Nueva",
           "Estadio": "El Perla Eventos"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220909"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/web - san francisco.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Buenardo",
-      "Fecha": "Viernes 9 de Septiembre 21.30hs",
-      "Lugar": "Teatrillo Municipal - San Francisco",
-      "Codigo": "SHOW006053",
-      "Categorias": "[\"todos\",\"TEA\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020942",
-          "Fecha": "2022-09-09T21:30:00",
-          "FechaString": "9 de septiembre",
-          "DiaString": "09",
-          "MesString": "septiembre",
-          "HoraString": "21:30 Hs",
-          "Ciudad": "San Francisco",
-          "Estadio": "Teatrillo Municipal"
         }
       ],
       "FechaPrimerEspectaculo": "20220909"
@@ -1219,6 +1219,29 @@
       "FechaPrimerEspectaculo": "20221020"
     },
     {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/web - san francisco.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Buenardo",
+      "Fecha": "Viernes 9 de Septiembre 21.30hs",
+      "Lugar": "Teatrillo Municipal - San Francisco",
+      "Codigo": "SHOW006053",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020942",
+          "Fecha": "2022-09-09T21:30:00",
+          "FechaString": "9 de septiembre",
+          "DiaString": "09",
+          "MesString": "septiembre",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "San Francisco",
+          "Estadio": "Teatrillo Municipal"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20220909"
+    },
+    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221203lakermesse.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -1288,29 +1311,6 @@
       "FechaPrimerEspectaculo": "20221216"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221008zanonifest.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Zanoni Fest",
-      "Fecha": "Sábado 8 de Octubre 23.45hs",
-      "Lugar": "Studio Theater",
-      "Codigo": "SHOW006077",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021027",
-          "Fecha": "2022-10-08T23:45:00",
-          "FechaString": "8 de octubre",
-          "DiaString": "08",
-          "MesString": "octubre",
-          "HoraString": "23:45 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Studio Theater"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221008"
-    },
-    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220917zanoni.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -1332,6 +1332,29 @@
         }
       ],
       "FechaPrimerEspectaculo": "20220917"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221008zanonifest.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Zanoni Fest",
+      "Fecha": "Sábado 8 de Octubre 23.45hs",
+      "Lugar": "Studio Theater",
+      "Codigo": "SHOW006077",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021027",
+          "Fecha": "2022-10-08T23:45:00",
+          "FechaString": "8 de octubre",
+          "DiaString": "08",
+          "MesString": "octubre",
+          "HoraString": "23:45 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Studio Theater"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221008"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910ligas.jpg",
@@ -1380,29 +1403,6 @@
       "FechaPrimerEspectaculo": "20220909"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220916damas.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Damas Gratis",
-      "Fecha": "Viernes 16 de Septiembre 23.59hs",
-      "Lugar": "Viejo Molino",
-      "Codigo": "SHOW005797",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021030",
-          "Fecha": "2022-09-16T23:59:00",
-          "FechaString": "16 de septiembre",
-          "DiaString": "16",
-          "MesString": "septiembre",
-          "HoraString": "23:59 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Viejo Molino"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220916"
-    },
-    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910zanoni.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -1426,27 +1426,27 @@
       "FechaPrimerEspectaculo": "20220910"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2022-03-16 at 16.46.11.jpeg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220916damas.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Soy Rada - Revuelto",
-      "Fecha": "Jueves 3 de Noviembre 21hs",
-      "Lugar": "Teatro Mayo",
-      "Codigo": "SHOW005902",
-      "Categorias": "[\"todos\",\"TEA\"]",
+      "Nombre": "Damas Gratis",
+      "Fecha": "Viernes 16 de Septiembre 23.59hs",
+      "Lugar": "Viejo Molino",
+      "Codigo": "SHOW005797",
+      "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020474",
-          "Fecha": "2022-11-03T21:00:00",
-          "FechaString": "3 de noviembre",
-          "DiaString": "03",
-          "MesString": "noviembre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "San Francisco",
-          "Estadio": "Teatro Mayo"
+          "Codigo": "FUNC021030",
+          "Fecha": "2022-09-16T23:59:00",
+          "FechaString": "16 de septiembre",
+          "DiaString": "16",
+          "MesString": "septiembre",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Viejo Molino"
         }
       ],
-      "FechaPrimerEspectaculo": "20221103"
+      "FechaPrimerEspectaculo": "20220916"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220907pela.jpg",
@@ -1495,27 +1495,73 @@
       "FechaPrimerEspectaculo": "20220917"
     },
     {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2022-03-16 at 16.46.11.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Soy Rada - Revuelto",
+      "Fecha": "Jueves 3 de Noviembre 21hs",
+      "Lugar": "Teatro Mayo",
+      "Codigo": "SHOW005902",
+      "Categorias": "[\"todos\",\"TEA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020474",
+          "Fecha": "2022-11-03T21:00:00",
+          "FechaString": "3 de noviembre",
+          "DiaString": "03",
+          "MesString": "noviembre",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "San Francisco",
+          "Estadio": "Teatro Mayo"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221103"
+    },
+    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221022ardelasangre.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
       "Nombre": "Arde La Sangre",
-      "Fecha": "Sábado 22 de Octubre 20hs",
+      "Fecha": "Sábado 22 de Octubre 21hs",
       "Lugar": "Krakovia",
       "Codigo": "SHOW005736",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
           "Codigo": "FUNC021026",
-          "Fecha": "2022-10-22T20:00:00",
+          "Fecha": "2022-10-22T21:00:00",
           "FechaString": "22 de octubre",
           "DiaString": "22",
           "MesString": "octubre",
-          "HoraString": "20:00 Hs",
+          "HoraString": "21:00 Hs",
           "Ciudad": "Córdoba",
           "Estadio": "Krakovia"
         }
       ],
       "FechaPrimerEspectaculo": "20221022"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910lisadani.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Lisandro Marquez Y Dani Guardia",
+      "Fecha": "Sábado 10 de Septiembre 23.59hs",
+      "Lugar": "Villa Retiro",
+      "Codigo": "SHOW005952",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021007",
+          "Fecha": "2022-09-10T23:59:00",
+          "FechaString": "10 de septiembre",
+          "DiaString": "10",
+          "MesString": "septiembre",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Villa Retiro"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20220910"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221109fcc.jpg",
@@ -1541,24 +1587,24 @@
       "FechaPrimerEspectaculo": "20220911"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910lisadani.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910cachumba.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Lisandro Marquez Y Dani Guardia",
+      "Nombre": "Cachumba",
       "Fecha": "Sábado 10 de Septiembre 23.59hs",
-      "Lugar": "Villa Retiro",
-      "Codigo": "SHOW005952",
+      "Lugar": "Club Roma",
+      "Codigo": "SHOW005805",
       "Categorias": "[\"todos\",\"CUA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC021007",
+          "Codigo": "FUNC021032",
           "Fecha": "2022-09-10T23:59:00",
           "FechaString": "10 de septiembre",
           "DiaString": "10",
           "MesString": "septiembre",
           "HoraString": "23:59 Hs",
           "Ciudad": "Córdoba",
-          "Estadio": "Villa Retiro"
+          "Estadio": "Club Roma"
         }
       ],
       "FechaPrimerEspectaculo": "20220910"
@@ -1702,29 +1748,6 @@
       "FechaPrimerEspectaculo": "20220916"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220915asspero.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Aspero",
-      "Fecha": "Jueves 15 de Septiembre 21hs",
-      "Lugar": "Casa Babylon",
-      "Codigo": "SHOW005933",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020961",
-          "Fecha": "2022-09-15T21:00:00",
-          "FechaString": "15 de septiembre",
-          "DiaString": "15",
-          "MesString": "septiembre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Casa Babylon"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220915"
-    },
-    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910backto90.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -1746,6 +1769,29 @@
         }
       ],
       "FechaPrimerEspectaculo": "20220910"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220915asspero.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Aspero",
+      "Fecha": "Jueves 15 de Septiembre 21hs",
+      "Lugar": "Casa Babylon",
+      "Codigo": "SHOW005933",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020961",
+          "Fecha": "2022-09-15T21:00:00",
+          "FechaString": "15 de septiembre",
+          "DiaString": "15",
+          "MesString": "septiembre",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Casa Babylon"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20220915"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221022cortoplazo.jpg",
