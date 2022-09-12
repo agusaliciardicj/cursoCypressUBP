@@ -46,7 +46,7 @@ Cypress.Commands.add("callService", (lastUrl, fileName, schema = false) => {
     if (!schema) {
       cy.log("No hay validación de esquema");
     } else {
-      cy.fixture(schema).then((JsonFile) => {
+      cy.fixture("schemas/" + schema).then((JsonFile) => {
         //Linea nueva
         /* Que paso???
         el "schema" era igual a "../schemas/puntosdeventa_sch.json"... es decir a ese texto... 
