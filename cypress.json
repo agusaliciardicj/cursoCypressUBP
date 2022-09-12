@@ -1,1 +1,4 @@
-{}
+{
+    "reporter": "cypress-mochawesome-reporter",
+    "video": false
+}
