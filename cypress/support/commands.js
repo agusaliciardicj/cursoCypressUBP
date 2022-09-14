@@ -25,6 +25,7 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 const Ajv = require("ajv");
 const ajv = new Ajv();
+require("cypress-grep")();
 
 /**
  * Llama al servicio acorde al primer parametro enviado
