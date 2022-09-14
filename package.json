@@ -4,6 +4,7 @@
   "description": "Curso de Cypress",
   "main": "index.js",
   "scripts": {
+    "cypress:open:test": "npx cypress open -e baseUrl=https://automationteststore.com/,updateSnapshots=true",
     "cypress:run:regression:test": "npx cypress run -e baseUrl=https://automationteststore.com/ -s cypress/integration/*.spec.js"
   },
   "repository": {
@@ -24,6 +25,7 @@
   "dependencies": {
     "ajv": "^8.11.0",
     "cypress": "^9.7.0",
+    "cypress-image-snapshot": "^4.0.1",
     "cypress-mochawesome-reporter": "^3.2.2",
     "cypress-real-events": "^1.7.1"
   }

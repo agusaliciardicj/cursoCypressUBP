@@ -24,27 +24,27 @@
       "FechaPrimerEspectaculo": "20221112"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/lpda-eden.png",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221004polinesio.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Las Pastillas del Abuelo",
-      "Fecha": "Viernes 2 de Diciembre 21hs",
+      "Nombre": "Los Polinesios",
+      "Fecha": "Martes 4 de Octubre 19hs",
       "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW005986",
+      "Codigo": "SHOW006068",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020704",
-          "Fecha": "2022-12-02T21:00:00",
-          "FechaString": "2 de diciembre",
-          "DiaString": "02",
-          "MesString": "diciembre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "Córdoba",
+          "Codigo": "FUNC021011",
+          "Fecha": "2022-10-04T19:00:00",
+          "FechaString": "4 de octubre",
+          "DiaString": "04",
+          "MesString": "octubre",
+          "HoraString": "19:00 Hs",
+          "Ciudad": "Cordoba",
           "Estadio": "Plaza de la Musica"
         }
       ],
-      "FechaPrimerEspectaculo": "20221202"
+      "FechaPrimerEspectaculo": "20221004"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221029biza.jpg",
@@ -68,29 +68,6 @@
         }
       ],
       "FechaPrimerEspectaculo": "20221029"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/andres-calamaro-nuevo-eden.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Andres Calamaro",
-      "Fecha": "Jueves 17 de Noviembre 21hs",
-      "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW005896",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020449",
-          "Fecha": "2022-11-17T21:00:00",
-          "FechaString": "17 de noviembre",
-          "DiaString": "17",
-          "MesString": "noviembre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Plaza de la Musica"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221117"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/fito-reprogramado-nuevafecha.jpg",
@@ -126,7 +103,7 @@
       "FechaPrimerEspectaculo": "20221216"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/202210doq.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221126doq.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
       "Nombre": "Don Osvaldo",
@@ -189,11 +166,11 @@
       "FechaPrimerEspectaculo": "20221014"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/picasion.com_db3ca01b13314ffb4ad0affde6fd3b3e.gif",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/picasion.com_ec8097ac2afff3d6389cb5f5facc45d9.gif",
       "ImagenPortada": "",
       "ImagenListado": "",
       "Nombre": "Don Osvaldo Canje - Quilmes",
-      "Fecha": "Lunes 17 de Octubre 20hs",
+      "Fecha": "",
       "Lugar": "Estadio Centenario - Playon de Estacionamiento",
       "Codigo": "SHOW006035",
       "Categorias": "[\"todos\",\"CON\"]",
@@ -275,50 +252,73 @@
       "FechaPrimerEspectaculo": "20221021"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221004polinesio.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/andres-calamaro-nuevo-eden.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Los Polinesios",
-      "Fecha": "Martes 4 de Octubre 19hs",
+      "Nombre": "Andres Calamaro",
+      "Fecha": "Jueves 17 de Noviembre 21hs",
       "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW006068",
+      "Codigo": "SHOW005896",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC021011",
-          "Fecha": "2022-10-04T19:00:00",
-          "FechaString": "4 de octubre",
-          "DiaString": "04",
-          "MesString": "octubre",
-          "HoraString": "19:00 Hs",
-          "Ciudad": "Cordoba",
-          "Estadio": "Plaza de la Musica"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221004"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/header_1000x500.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "FMS Córdoba",
-      "Fecha": "Domingo 6 de Noviembre 17hs",
-      "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW006069",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020999",
-          "Fecha": "2022-11-06T17:00:00",
-          "FechaString": "6 de noviembre",
-          "DiaString": "06",
+          "Codigo": "FUNC020449",
+          "Fecha": "2022-11-17T21:00:00",
+          "FechaString": "17 de noviembre",
+          "DiaString": "17",
           "MesString": "noviembre",
-          "HoraString": "17:00 Hs",
+          "HoraString": "21:00 Hs",
           "Ciudad": "Córdoba",
           "Estadio": "Plaza de la Musica"
         }
       ],
-      "FechaPrimerEspectaculo": "20221106"
+      "FechaPrimerEspectaculo": "20221117"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/lpda-eden.png",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Las Pastillas del Abuelo",
+      "Fecha": "Viernes 2 de Diciembre 21hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW005986",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020704",
+          "Fecha": "2022-12-02T21:00:00",
+          "FechaString": "2 de diciembre",
+          "DiaString": "02",
+          "MesString": "diciembre",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221202"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/laberisook.gif",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "La Beriso",
+      "Fecha": "Domingo 13 de Noviembre 20hs",
+      "Lugar": "Estadio Mario Alberto Kempes",
+      "Codigo": "SHOW005803",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020679",
+          "Fecha": "2022-11-13T20:00:00",
+          "FechaString": "13 de noviembre",
+          "DiaString": "13",
+          "MesString": "noviembre",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Estadio Mario A. Kempes"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221113"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/draculapitta.jpg",
@@ -352,29 +352,6 @@
         }
       ],
       "FechaPrimerEspectaculo": "20221015"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/laberisook.gif",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "La Beriso",
-      "Fecha": "Domingo 13 de Noviembre 20hs",
-      "Lugar": "Estadio Mario Alberto Kempes",
-      "Codigo": "SHOW005803",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020679",
-          "Fecha": "2022-11-13T20:00:00",
-          "FechaString": "13 de noviembre",
-          "DiaString": "13",
-          "MesString": "noviembre",
-          "HoraString": "20:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Estadio Mario A. Kempes"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221113"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2022-09-06 at 12.15.13.jpeg",
@@ -420,50 +397,60 @@
       "FechaPrimerEspectaculo": "20220930"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/ciro-eden.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/header_1000x500.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Ciro y Los Persas",
-      "Fecha": "Viernes 9 de Septiembre 21hs",
+      "Nombre": "FMS Córdoba",
+      "Fecha": "Domingo 6 de Noviembre 17hs",
       "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW001215",
+      "Codigo": "SHOW006069",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020488",
-          "Fecha": "2022-09-09T21:00:00",
-          "FechaString": "9 de septiembre",
-          "DiaString": "09",
-          "MesString": "septiembre",
-          "HoraString": "21:00 Hs",
+          "Codigo": "FUNC020999",
+          "Fecha": "2022-11-06T17:00:00",
+          "FechaString": "6 de noviembre",
+          "DiaString": "06",
+          "MesString": "noviembre",
+          "HoraString": "17:00 Hs",
           "Ciudad": "Córdoba",
           "Estadio": "Plaza de la Musica"
         }
       ],
-      "FechaPrimerEspectaculo": "20220909"
+      "FechaPrimerEspectaculo": "20221106"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/plaza eden.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/0890893a-ff1e-4cfe-947e-669a39fa7e80.png",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "La Konga",
-      "Fecha": "Sábado 10 de Septiembre 23.59hs",
-      "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW005788",
-      "Categorias": "[\"todos\",\"CUA\"]",
+      "Nombre": "Dorothy Un Mágico Musical",
+      "Fecha": "Viernes 28, Sábado 29 de Octubre a las 21hs",
+      "Lugar": "Sala de las Americas",
+      "Codigo": "SHOW006067",
+      "Categorias": "[\"todos\",\"TEA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020991",
-          "Fecha": "2022-09-10T23:59:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
-          "MesString": "septiembre",
-          "HoraString": "23:59 Hs",
+          "Codigo": "FUNC020986",
+          "Fecha": "2022-10-28T21:00:00",
+          "FechaString": "28 de octubre",
+          "DiaString": "28",
+          "MesString": "octubre",
+          "HoraString": "21:00 Hs",
           "Ciudad": "Córdoba",
-          "Estadio": "Plaza de la Musica"
+          "Estadio": "Sala de las Americas"
+        },
+        {
+          "Codigo": "FUNC020987",
+          "Fecha": "2022-10-29T21:00:00",
+          "FechaString": "29 de octubre",
+          "DiaString": "29",
+          "MesString": "octubre",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
         }
       ],
-      "FechaPrimerEspectaculo": "20220910"
+      "FechaPrimerEspectaculo": "20221028"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/serratcbesa.jpeg",
@@ -512,37 +499,27 @@
       "FechaPrimerEspectaculo": "20220929"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/0890893a-ff1e-4cfe-947e-669a39fa7e80.png",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/2022dracula.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Dorothy Un Mágico Musical",
-      "Fecha": "Viernes 28, Sábado 29 de Octubre a las 21hs",
-      "Lugar": "Sala de las Americas",
-      "Codigo": "SHOW006067",
+      "Nombre": "Dracula El Musical - La Despedida - Rio Tercero",
+      "Fecha": "Miércoles 26 de Octubre - 21:00Hs",
+      "Lugar": "Teatro Real Coop. Rio Tercero",
+      "Codigo": "SHOW006080",
       "Categorias": "[\"todos\",\"TEA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020986",
-          "Fecha": "2022-10-28T21:00:00",
-          "FechaString": "28 de octubre",
-          "DiaString": "28",
+          "Codigo": "FUNC021051",
+          "Fecha": "2022-10-26T21:00:00",
+          "FechaString": "26 de octubre",
+          "DiaString": "26",
           "MesString": "octubre",
           "HoraString": "21:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Sala de las Americas"
-        },
-        {
-          "Codigo": "FUNC020987",
-          "Fecha": "2022-10-29T21:00:00",
-          "FechaString": "29 de octubre",
-          "DiaString": "29",
-          "MesString": "octubre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Sala de las Americas"
+          "Ciudad": "Rio Tercero",
+          "Estadio": "Teatro Real Cooperativa"
         }
       ],
-      "FechaPrimerEspectaculo": "20221028"
+      "FechaPrimerEspectaculo": "20221026"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/grafica eden (1).jpg",
@@ -568,27 +545,119 @@
       "FechaPrimerEspectaculo": "20221008"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/villamaria_900x450.png",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221001do.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Dillom",
-      "Fecha": "Viernes 9 de Septiembre 21hs",
-      "Lugar": "Mundo Rojo - Villa Maria",
-      "Codigo": "SHOW006026",
+      "Nombre": "Don Osvaldo Bahia Blanca",
+      "Fecha": "Sábado 1 de Octubre 20hs",
+      "Lugar": "FISA - Predio de la Corporación y el Comercio",
+      "Codigo": "SHOW006071",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020858",
-          "Fecha": "2022-09-09T21:00:00",
-          "FechaString": "9 de septiembre",
-          "DiaString": "09",
-          "MesString": "septiembre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "Villa Maria",
-          "Estadio": "Mundo Rojo"
+          "Codigo": "FUNC021003",
+          "Fecha": "2022-10-01T20:00:00",
+          "FechaString": "1 de octubre",
+          "DiaString": "01",
+          "MesString": "octubre",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Bahia Blanca",
+          "Estadio": "FISA - Predio de la Corporación y el Comercio"
         }
       ],
-      "FechaPrimerEspectaculo": "20220909"
+      "FechaPrimerEspectaculo": "20221001"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/picasion.com_c4b53f6e9ebb9775874d44d4155ebb38.gif",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Don Osvaldo Canje - Bahia Blanca",
+      "Fecha": "Sábado 1 de Octubre 20hs",
+      "Lugar": "FISA - Predio de la Corporación y el Comercio",
+      "Codigo": "SHOW006072",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021004",
+          "Fecha": "2022-10-01T20:00:00",
+          "FechaString": "1 de octubre",
+          "DiaString": "01",
+          "MesString": "octubre",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Bahia Blanca",
+          "Estadio": "FISA - Predio de la Corporación y el Comercio"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221001"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2022-09-05 at 09.41.06.jpeg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Tablao Flamenco - Vaya Alboroto",
+      "Fecha": "Viernes 14 de Octubre 21hs",
+      "Lugar": "Sala de las Americas",
+      "Codigo": "SHOW006073",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021053",
+          "Fecha": "2022-10-14T21:00:00",
+          "FechaString": "14 de octubre",
+          "DiaString": "14",
+          "MesString": "octubre",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sala de las Americas"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221014"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221007chayera.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Fiesta Chayera 2022",
+      "Fecha": "Viernes 7 de Octubre 22hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW005828",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020947",
+          "Fecha": "2022-10-07T22:00:00",
+          "FechaString": "7 de octubre",
+          "DiaString": "07",
+          "MesString": "octubre",
+          "HoraString": "22:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221007"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/bach_eden.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Bandalos Chinos",
+      "Fecha": "Sábado 15 de Octubre 20hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW001978",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020595",
+          "Fecha": "2022-10-15T20:00:00",
+          "FechaString": "15 de octubre",
+          "DiaString": "15",
+          "MesString": "octubre",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221015"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/lpdasf.jpg",
@@ -637,142 +706,27 @@
       "FechaPrimerEspectaculo": "20221104"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221007chayera.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221008pelusa.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Fiesta Chayera 2022",
-      "Fecha": "Viernes 7 de Octubre 22hs",
-      "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW005828",
-      "Categorias": "[\"todos\",\"CON\"]",
+      "Nombre": "El Rey Pelusa - Larguisimo",
+      "Fecha": "Sábado 08 de Octubre 22:00hs",
+      "Lugar": "Las Palmas",
+      "Codigo": "SHOW000380",
+      "Categorias": "[\"todos\",\"CUA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020947",
-          "Fecha": "2022-10-07T22:00:00",
-          "FechaString": "7 de octubre",
-          "DiaString": "07",
+          "Codigo": "FUNC021055",
+          "Fecha": "2022-10-08T22:00:00",
+          "FechaString": "8 de octubre",
+          "DiaString": "08",
           "MesString": "octubre",
           "HoraString": "22:00 Hs",
           "Ciudad": "Córdoba",
-          "Estadio": "Plaza de la Musica"
+          "Estadio": "Las Palmas"
         }
       ],
-      "FechaPrimerEspectaculo": "20221007"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/ciro - san francisco 1000x500_.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Ciro y Los Persas",
-      "Fecha": "Sábado 10 de Septiembre 21hs",
-      "Lugar": "Superdomo San Francisco",
-      "Codigo": "SHOW005937",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020573",
-          "Fecha": "2022-09-10T21:00:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
-          "MesString": "septiembre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "San Francisco",
-          "Estadio": "SuperDomo San Francisco"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220910"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/bach_eden.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Bandalos Chinos",
-      "Fecha": "Sábado 15 de Octubre 20hs",
-      "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW001978",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020595",
-          "Fecha": "2022-10-15T20:00:00",
-          "FechaString": "15 de octubre",
-          "DiaString": "15",
-          "MesString": "octubre",
-          "HoraString": "20:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Plaza de la Musica"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221015"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221001do.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Don Osvaldo Bahia Blanca",
-      "Fecha": "Sábado 1 de Octubre 20hs",
-      "Lugar": "FISA - Predio de la Corporación y el Comercio",
-      "Codigo": "SHOW006071",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021003",
-          "Fecha": "2022-10-01T20:00:00",
-          "FechaString": "1 de octubre",
-          "DiaString": "01",
-          "MesString": "octubre",
-          "HoraString": "20:00 Hs",
-          "Ciudad": "Bahia Blanca",
-          "Estadio": "FISA - Predio de la Corporación y el Comercio"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221001"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2022-09-05 at 09.41.06.jpeg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Tablao Flamenco - Vaya Alboroto",
-      "Fecha": "Viernes 14 de Octubre 21hs",
-      "Lugar": "Sala de las Americas",
-      "Codigo": "SHOW006073",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021005",
-          "Fecha": "2022-10-14T21:00:00",
-          "FechaString": "14 de octubre",
-          "DiaString": "14",
-          "MesString": "octubre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Sala de las Americas"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221014"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/picasion.com_c4b53f6e9ebb9775874d44d4155ebb38.gif",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Don Osvaldo Canje - Bahia Blanca",
-      "Fecha": "Sábado 1 de Octubre 20hs",
-      "Lugar": "FISA - Predio de la Corporación y el Comercio",
-      "Codigo": "SHOW006072",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021004",
-          "Fecha": "2022-10-01T20:00:00",
-          "FechaString": "1 de octubre",
-          "DiaString": "01",
-          "MesString": "octubre",
-          "HoraString": "20:00 Hs",
-          "Ciudad": "Bahia Blanca",
-          "Estadio": "FISA - Predio de la Corporación y el Comercio"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221001"
+      "FechaPrimerEspectaculo": "20221008"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/2022draculasf.jpg",
@@ -798,165 +752,96 @@
       "FechaPrimerEspectaculo": "20221025"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910pelusa.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220915dc.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "El Rey Pelusa",
-      "Fecha": "Sábado 10 de Septiembre 23.59hs",
+      "Nombre": "Damian Cordoba",
+      "Fecha": "Jueves 15 de Septiembre 23.59hs",
       "Lugar": "Sala del Rey",
-      "Codigo": "SHOW000380",
+      "Codigo": "SHOW005751",
       "Categorias": "[\"todos\",\"CUA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020976",
-          "Fecha": "2022-09-10T23:59:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
+          "Codigo": "FUNC021039",
+          "Fecha": "2022-09-15T23:59:00",
+          "FechaString": "15 de septiembre",
+          "DiaString": "15",
           "MesString": "septiembre",
           "HoraString": "23:59 Hs",
           "Ciudad": "Córdoba",
           "Estadio": "Sala del Rey"
         }
       ],
-      "FechaPrimerEspectaculo": "20220910"
+      "FechaPrimerEspectaculo": "20220915"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910daleqva.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/alice.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Dale Q Va",
-      "Fecha": "Sábado 10 de Septiembre 23.59hs",
-      "Lugar": "Las Palmas",
-      "Codigo": "SHOW001934",
-      "Categorias": "[\"todos\",\"CUA\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021021",
-          "Fecha": "2022-09-10T23:59:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
-          "MesString": "septiembre",
-          "HoraString": "23:59 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Las Palmas"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220910"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220908dc.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Damian Cordoba",
-      "Fecha": "Jueves 8 de Septiembre 23.59hs",
-      "Lugar": "Estadio del Centro",
-      "Codigo": "SHOW005751",
-      "Categorias": "[\"todos\",\"CUA\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021025",
-          "Fecha": "2022-09-08T23:59:00",
-          "FechaString": "8 de septiembre",
-          "DiaString": "08",
-          "MesString": "septiembre",
-          "HoraString": "23:59 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Estadio del Centro"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220908"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221014delio.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "La Delio Valdez",
-      "Fecha": "Viernes 14 de Octubre 21.30hs",
-      "Lugar": "Opus Costanera Rio Cuarto",
-      "Codigo": "SHOW005792",
+      "Nombre": "Alice Phoebe Lou",
+      "Fecha": "Jueves 1 de Diciembre 21hs",
+      "Lugar": "Club Paraguay",
+      "Codigo": "SHOW005993",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020799",
-          "Fecha": "2022-10-14T21:30:00",
-          "FechaString": "14 de octubre",
-          "DiaString": "14",
-          "MesString": "octubre",
-          "HoraString": "21:30 Hs",
-          "Ciudad": "Rio Cuarto",
-          "Estadio": "Opus Costanera"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221014"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910kevindiserna.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Graziano Raffa & Kevin Di Serna",
-      "Fecha": "Sábado 10 de Septiembre 23hs",
-      "Lugar": "Fruta",
-      "Codigo": "SHOW005760",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021008",
-          "Fecha": "2022-09-10T23:00:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
-          "MesString": "septiembre",
-          "HoraString": "23:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Fruta"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220910"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221006katana.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Katana XL",
-      "Fecha": "Jueves 6 de Octubre 23.59hs",
-      "Lugar": "Plaza de la Musica",
-      "Codigo": "SHOW006028",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020863",
-          "Fecha": "2022-10-06T23:59:00",
-          "FechaString": "6 de octubre",
-          "DiaString": "06",
-          "MesString": "octubre",
-          "HoraString": "23:59 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Plaza de la Musica"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221006"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/opus_sergio_dalma_eden_6-11-22.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Sergio Dalma",
-      "Fecha": "Domingo 6 de Noviembre 21hs",
-      "Lugar": "Opus Costanera Rio Cuarto",
-      "Codigo": "SHOW005932",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020555",
-          "Fecha": "2022-11-06T21:00:00",
-          "FechaString": "6 de noviembre",
-          "DiaString": "06",
-          "MesString": "noviembre",
+          "Codigo": "FUNC020725",
+          "Fecha": "2022-12-01T21:00:00",
+          "FechaString": "1 de diciembre",
+          "DiaString": "01",
+          "MesString": "diciembre",
           "HoraString": "21:00 Hs",
-          "Ciudad": "Rio Cuarto",
-          "Estadio": "Opus Costanera"
+          "Ciudad": "Córdoba",
+          "Estadio": "Club Paraguay"
         }
       ],
-      "FechaPrimerEspectaculo": "20221106"
+      "FechaPrimerEspectaculo": "20221201"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220930do.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Don Osvaldo - Neuquen",
+      "Fecha": "Viernes 30 de Septiembre 20hs",
+      "Lugar": "Estadio Ruca Che",
+      "Codigo": "SHOW006006",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020774",
+          "Fecha": "2022-09-30T20:00:00",
+          "FechaString": "30 de septiembre",
+          "DiaString": "30",
+          "MesString": "septiembre",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Neuquen",
+          "Estadio": "Estadio Ruca Che"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20220930"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/picasion.com_69f0014974a9f57cf81e9540c10829a0.gif",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Don Osvaldo Canje - Neuquen",
+      "Fecha": "Viernes 30 de Septiembre 20hs",
+      "Lugar": "Estadio Ruca Che",
+      "Codigo": "SHOW006007",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020775",
+          "Fecha": "2022-09-30T20:00:00",
+          "FechaString": "30 de septiembre",
+          "DiaString": "30",
+          "MesString": "septiembre",
+          "HoraString": "20:00 Hs",
+          "Ciudad": "Neuquen",
+          "Estadio": "Estadio Ruca Che"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20220930"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220917dancing.jpg",
@@ -980,6 +865,29 @@
         }
       ],
       "FechaPrimerEspectaculo": "20220917"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/opus_emilia_eden_12-10-22.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Emilia",
+      "Fecha": "Miércoles 12 de Octubre 21hs",
+      "Lugar": "Opus Costanera - Rio Cuarto",
+      "Codigo": "SHOW006041",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020911",
+          "Fecha": "2022-10-12T21:00:00",
+          "FechaString": "12 de octubre",
+          "DiaString": "12",
+          "MesString": "octubre",
+          "HoraString": "21:00 Hs",
+          "Ciudad": "Rio Cuarto",
+          "Estadio": "Opus Costanera"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221012"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/opus_emilia_eden_12-10-22_vip(1).jpg",
@@ -1028,73 +936,73 @@
       "FechaPrimerEspectaculo": "20221104"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/alice.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/opus_sergio_dalma_eden_6-11-22.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Alice Phoebe Lou",
-      "Fecha": "Jueves 1 de Diciembre 21hs",
-      "Lugar": "Club Paraguay",
-      "Codigo": "SHOW005993",
+      "Nombre": "Sergio Dalma",
+      "Fecha": "Domingo 6 de Noviembre 21hs",
+      "Lugar": "Opus Costanera Rio Cuarto",
+      "Codigo": "SHOW005932",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020725",
-          "Fecha": "2022-12-01T21:00:00",
-          "FechaString": "1 de diciembre",
-          "DiaString": "01",
-          "MesString": "diciembre",
-          "HoraString": "21:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Club Paraguay"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221201"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/opus_emilia_eden_12-10-22.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Emilia",
-      "Fecha": "Miércoles 12 de Octubre 21hs",
-      "Lugar": "Opus Costanera - Rio Cuarto",
-      "Codigo": "SHOW006041",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020911",
-          "Fecha": "2022-10-12T21:00:00",
-          "FechaString": "12 de octubre",
-          "DiaString": "12",
-          "MesString": "octubre",
+          "Codigo": "FUNC020555",
+          "Fecha": "2022-11-06T21:00:00",
+          "FechaString": "6 de noviembre",
+          "DiaString": "06",
+          "MesString": "noviembre",
           "HoraString": "21:00 Hs",
           "Ciudad": "Rio Cuarto",
           "Estadio": "Opus Costanera"
         }
       ],
-      "FechaPrimerEspectaculo": "20221012"
+      "FechaPrimerEspectaculo": "20221106"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220909planeadorv.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221014delio.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Planeador V",
-      "Fecha": "Viernes 9 de Septiembre 23.30hs",
-      "Lugar": "El Perla Eventos",
-      "Codigo": "SHOW006051",
+      "Nombre": "La Delio Valdez",
+      "Fecha": "Viernes 14 de Octubre 21.30hs",
+      "Lugar": "Opus Costanera Rio Cuarto",
+      "Codigo": "SHOW005792",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020937",
-          "Fecha": "2022-09-09T23:30:00",
-          "FechaString": "9 de septiembre",
-          "DiaString": "09",
-          "MesString": "septiembre",
-          "HoraString": "23:30 Hs",
-          "Ciudad": "Villa Nueva",
-          "Estadio": "El Perla Eventos"
+          "Codigo": "FUNC020799",
+          "Fecha": "2022-10-14T21:30:00",
+          "FechaString": "14 de octubre",
+          "DiaString": "14",
+          "MesString": "octubre",
+          "HoraString": "21:30 Hs",
+          "Ciudad": "Rio Cuarto",
+          "Estadio": "Opus Costanera"
         }
       ],
-      "FechaPrimerEspectaculo": "20220909"
+      "FechaPrimerEspectaculo": "20221014"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/eden-ktn-xl---kaleb---plaza-musica.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Katana XL",
+      "Fecha": "Jueves 6 de Octubre 23.59hs",
+      "Lugar": "Plaza de la Musica",
+      "Codigo": "SHOW006028",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC020863",
+          "Fecha": "2022-10-06T23:59:00",
+          "FechaString": "6 de octubre",
+          "DiaString": "06",
+          "MesString": "octubre",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Plaza de la Musica"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221006"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220923banana.jpg",
@@ -1120,73 +1028,27 @@
       "FechaPrimerEspectaculo": "20220923"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/web - san francisco.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/whatsapp image 2022-09-08 at 20.49.09.jpeg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Buenardo",
-      "Fecha": "Viernes 9 de Septiembre 21.30hs",
-      "Lugar": "Teatrillo Municipal - San Francisco",
-      "Codigo": "SHOW006053",
-      "Categorias": "[\"todos\",\"TEA\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020942",
-          "Fecha": "2022-09-09T21:30:00",
-          "FechaString": "9 de septiembre",
-          "DiaString": "09",
-          "MesString": "septiembre",
-          "HoraString": "21:30 Hs",
-          "Ciudad": "San Francisco",
-          "Estadio": "Teatrillo Municipal"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220909"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220930do.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Don Osvaldo - Neuquen",
-      "Fecha": "Viernes 30 de Septiembre 20hs",
-      "Lugar": "Estadio Ruca Che",
-      "Codigo": "SHOW006006",
+      "Nombre": "Marama",
+      "Fecha": "Viernes 14 de Octubre 22hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW006079",
       "Categorias": "[\"todos\",\"CON\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020774",
-          "Fecha": "2022-09-30T20:00:00",
-          "FechaString": "30 de septiembre",
-          "DiaString": "30",
-          "MesString": "septiembre",
-          "HoraString": "20:00 Hs",
-          "Ciudad": "Neuquen",
-          "Estadio": "Estadio Ruca Che"
+          "Codigo": "FUNC021034",
+          "Fecha": "2022-10-14T22:00:00",
+          "FechaString": "14 de octubre",
+          "DiaString": "14",
+          "MesString": "octubre",
+          "HoraString": "22:00 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
         }
       ],
-      "FechaPrimerEspectaculo": "20220930"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/picasion.com_69f0014974a9f57cf81e9540c10829a0.gif",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Don Osvaldo Canje - Neuquen",
-      "Fecha": "Viernes 30 de Septiembre 20hs",
-      "Lugar": "Estadio Ruca Che",
-      "Codigo": "SHOW006007",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020775",
-          "Fecha": "2022-09-30T20:00:00",
-          "FechaString": "30 de septiembre",
-          "DiaString": "30",
-          "MesString": "septiembre",
-          "HoraString": "20:00 Hs",
-          "Ciudad": "Neuquen",
-          "Estadio": "Estadio Ruca Che"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220930"
+      "FechaPrimerEspectaculo": "20221014"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/202210es.jpg",
@@ -1288,29 +1150,6 @@
       "FechaPrimerEspectaculo": "20221203"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220909arbol.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Arbol",
-      "Fecha": "Viernes 9 de Septiembre 20hs",
-      "Lugar": "Club Paraguay",
-      "Codigo": "SHOW006033",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020881",
-          "Fecha": "2022-09-09T20:00:00",
-          "FechaString": "9 de septiembre",
-          "DiaString": "09",
-          "MesString": "septiembre",
-          "HoraString": "20:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Club Paraguay"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220909"
-    },
-    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221216virnalisi.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -1357,6 +1196,29 @@
       "FechaPrimerEspectaculo": "20220917"
     },
     {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221008zanonifest.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Zanoni Fest",
+      "Fecha": "Sábado 15 de Octubre 23.45hs",
+      "Lugar": "Studio Theater",
+      "Codigo": "SHOW006077",
+      "Categorias": "[\"todos\",\"CON\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021027",
+          "Fecha": "2022-10-15T23:45:00",
+          "FechaString": "15 de octubre",
+          "DiaString": "15",
+          "MesString": "octubre",
+          "HoraString": "23:45 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Studio Theater"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20221015"
+    },
+    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220916damas.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -1380,96 +1242,50 @@
       "FechaPrimerEspectaculo": "20220916"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910ligas.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220917labarra.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Las Ligas Menores",
-      "Fecha": "Sábado 10 de Septiembre 21hs",
-      "Lugar": "Studio Theater",
-      "Codigo": "SHOW005724",
-      "Categorias": "[\"todos\",\"CON\"]",
+      "Nombre": "La Barra",
+      "Fecha": "Sábado 17 de Septiembre 23.59hs",
+      "Lugar": "Comedor Universitario",
+      "Codigo": "SHOW005819",
+      "Categorias": "[\"todos\",\"CUA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020544",
-          "Fecha": "2022-09-10T21:00:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
+          "Codigo": "FUNC021035",
+          "Fecha": "2022-09-17T23:59:00",
+          "FechaString": "17 de septiembre",
+          "DiaString": "17",
           "MesString": "septiembre",
-          "HoraString": "21:00 Hs",
+          "HoraString": "23:59 Hs",
           "Ciudad": "Córdoba",
-          "Estadio": "Studio Theater"
+          "Estadio": "Comedor Universitario"
         }
       ],
-      "FechaPrimerEspectaculo": "20220910"
+      "FechaPrimerEspectaculo": "20220917"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910zanoni.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220916lb.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Zanoni Fest Retro",
-      "Fecha": "Sábado 10 de Septiembre 23.30hs",
-      "Lugar": "Salon Pampa - Jesus Maria ",
-      "Codigo": "SHOW005817",
-      "Categorias": "[\"todos\",\"CON\"]",
+      "Nombre": "La Barra",
+      "Fecha": "Viernes 16 de Septiembre 23.59hs",
+      "Lugar": "Sala del Rey",
+      "Codigo": "SHOW005831",
+      "Categorias": "[\"todos\",\"CUA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020969",
-          "Fecha": "2022-09-10T23:30:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
+          "Codigo": "FUNC021040",
+          "Fecha": "2022-09-16T23:59:00",
+          "FechaString": "16 de septiembre",
+          "DiaString": "16",
           "MesString": "septiembre",
-          "HoraString": "23:30 Hs",
-          "Ciudad": "Jesus Maria",
-          "Estadio": "Salon Pampa"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220910"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220909cbarockea.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Córdoba Rockea",
-      "Fecha": "Viernes 9 de Septiembre 21hs",
-      "Lugar": "Studio Theater",
-      "Codigo": "SHOW005928",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020960",
-          "Fecha": "2022-09-09T21:00:00",
-          "FechaString": "9 de septiembre",
-          "DiaString": "09",
-          "MesString": "septiembre",
-          "HoraString": "21:00 Hs",
+          "HoraString": "23:59 Hs",
           "Ciudad": "Córdoba",
-          "Estadio": "Studio Theater"
+          "Estadio": "Sala del Rey"
         }
       ],
-      "FechaPrimerEspectaculo": "20220909"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221008zanonifest.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Zanoni Fest",
-      "Fecha": "Sábado 8 de Octubre 23.45hs",
-      "Lugar": "Studio Theater",
-      "Codigo": "SHOW006077",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021027",
-          "Fecha": "2022-10-08T23:45:00",
-          "FechaString": "8 de octubre",
-          "DiaString": "08",
-          "MesString": "octubre",
-          "HoraString": "23:45 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Studio Theater"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20221008"
+      "FechaPrimerEspectaculo": "20220916"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221022ardelasangre.jpg",
@@ -1495,96 +1311,27 @@
       "FechaPrimerEspectaculo": "20221022"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910lisadani.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220917dqv.jpeg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Lisandro Marquez Y Dani Guardia",
-      "Fecha": "Sábado 10 de Septiembre 23.59hs",
+      "Nombre": "Dale Q Va",
+      "Fecha": "Sábado 17 de Septiembre 23:59Hs",
       "Lugar": "Villa Retiro",
-      "Codigo": "SHOW005952",
+      "Codigo": "SHOW005783",
       "Categorias": "[\"todos\",\"CUA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC021007",
-          "Fecha": "2022-09-10T23:59:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
+          "Codigo": "FUNC021050",
+          "Fecha": "2022-09-17T23:59:00",
+          "FechaString": "17 de septiembre",
+          "DiaString": "17",
           "MesString": "septiembre",
           "HoraString": "23:59 Hs",
           "Ciudad": "Córdoba",
           "Estadio": "Villa Retiro"
         }
       ],
-      "FechaPrimerEspectaculo": "20220910"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20221109fcc.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "FCC 18 \"WORLD SERIES\"",
-      "Fecha": "Domingo 11 de Septiembre 18hs",
-      "Lugar": "Studio Theater",
-      "Codigo": "SHOW005957",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020949",
-          "Fecha": "2022-09-11T18:00:00",
-          "FechaString": "11 de septiembre",
-          "DiaString": "11",
-          "MesString": "septiembre",
-          "HoraString": "18:00 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Studio Theater"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220911"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910cachumba.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Cachumba",
-      "Fecha": "Sábado 10 de Septiembre 23.59hs",
-      "Lugar": "Club Roma",
-      "Codigo": "SHOW005805",
-      "Categorias": "[\"todos\",\"CUA\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC021032",
-          "Fecha": "2022-09-10T23:59:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
-          "MesString": "septiembre",
-          "HoraString": "23:59 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Club Roma"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220910"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220907pela.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "El Pela Gonzalo Romero",
-      "Fecha": "Viernes 7 de Septiembre 21.30hs",
-      "Lugar": "Tetaro Mayo",
-      "Codigo": "SHOW005796",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020946",
-          "Fecha": "2022-09-07T21:30:00",
-          "FechaString": "7 de septiembre",
-          "DiaString": "07",
-          "MesString": "septiembre",
-          "HoraString": "21:30 Hs",
-          "Ciudad": "San Francisco",
-          "Estadio": "Teatro Mayo"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220907"
+      "FechaPrimerEspectaculo": "20220917"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220917daniguardia.jpg",
@@ -1656,6 +1403,29 @@
       "FechaPrimerEspectaculo": "20221023"
     },
     {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220917dc.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "Damian Cordoba",
+      "Fecha": "Sábado 17 de Septiembre 23.59hs",
+      "Lugar": "Sociedad Belgrano",
+      "Codigo": "SHOW005763",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021047",
+          "Fecha": "2022-09-17T23:59:00",
+          "FechaString": "17 de septiembre",
+          "DiaString": "17",
+          "MesString": "septiembre",
+          "HoraString": "23:59 Hs",
+          "Ciudad": "Córdoba",
+          "Estadio": "Sociedad Belgrano"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20220917"
+    },
+    {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220922pier.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
@@ -1679,50 +1449,27 @@
       "FechaPrimerEspectaculo": "20220922"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220909fiestaboom.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220917themonkey.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Fiesta Boom Retro",
-      "Fecha": "Viernes 9 de Septiembre 23hs",
-      "Lugar": "Divi Club",
-      "Codigo": "SHOW006078",
-      "Categorias": "[\"todos\",\"CON\"]",
+      "Nombre": "The Monkey",
+      "Fecha": "Sábado 17 de Septiembre - 23.59hs",
+      "Lugar": "Las Palmas",
+      "Codigo": "SHOW005755",
+      "Categorias": "[\"todos\",\"CUA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC021029",
-          "Fecha": "2022-09-09T23:00:00",
-          "FechaString": "9 de septiembre",
-          "DiaString": "09",
+          "Codigo": "FUNC021054",
+          "Fecha": "2022-09-17T23:59:00",
+          "FechaString": "17 de septiembre",
+          "DiaString": "17",
           "MesString": "septiembre",
-          "HoraString": "23:00 Hs",
+          "HoraString": "23:59 Hs",
           "Ciudad": "Córdoba",
-          "Estadio": "Divi Club"
+          "Estadio": "Las Palmas"
         }
       ],
-      "FechaPrimerEspectaculo": "20220909"
-    },
-    {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910nochenostalgias.jpg",
-      "ImagenPortada": "",
-      "ImagenListado": "",
-      "Nombre": "Noche de Nostalgias - El Turco Julio & Los Iracundos",
-      "Fecha": "Sábado 10 de Septiembre 23.30hs",
-      "Lugar": "El Perla Eventos",
-      "Codigo": "SHOW006059",
-      "Categorias": "[\"todos\",\"CON\"]",
-      "Espectaculos": [
-        {
-          "Codigo": "FUNC020956",
-          "Fecha": "2022-09-10T23:30:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
-          "MesString": "septiembre",
-          "HoraString": "23:30 Hs",
-          "Ciudad": "Villa Nueva",
-          "Estadio": "El Perla Eventos"
-        }
-      ],
-      "FechaPrimerEspectaculo": "20220910"
+      "FechaPrimerEspectaculo": "20220917"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220916tyago.jpg",
@@ -1771,27 +1518,27 @@
       "FechaPrimerEspectaculo": "20220917"
     },
     {
-      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220910backto90.jpg",
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220924ferbladys.jpg",
       "ImagenPortada": "",
       "ImagenListado": "",
-      "Nombre": "Back to 90s",
-      "Fecha": "Sábado 10 de Septiembre 23.59hs",
-      "Lugar": "Casa Babylon",
-      "Codigo": "SHOW005923",
-      "Categorias": "[\"todos\",\"CON\"]",
+      "Nombre": "Fer Bladys",
+      "Fecha": "Sábado 24 de Septiembre 23.50hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW005775",
+      "Categorias": "[\"todos\",\"CUA\"]",
       "Espectaculos": [
         {
-          "Codigo": "FUNC020974",
-          "Fecha": "2022-09-10T23:59:00",
-          "FechaString": "10 de septiembre",
-          "DiaString": "10",
+          "Codigo": "FUNC021037",
+          "Fecha": "2022-09-24T23:50:00",
+          "FechaString": "24 de septiembre",
+          "DiaString": "24",
           "MesString": "septiembre",
-          "HoraString": "23:59 Hs",
-          "Ciudad": "Córdoba",
-          "Estadio": "Casa Babylon"
+          "HoraString": "23:50 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
         }
       ],
-      "FechaPrimerEspectaculo": "20220910"
+      "FechaPrimerEspectaculo": "20220924"
     },
     {
       "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220915asspero.jpg",
@@ -1838,6 +1585,29 @@
         }
       ],
       "FechaPrimerEspectaculo": "20221022"
+    },
+    {
+      "Imagen": "https://static.edenentradas.com.ar/sitio/shows/20220923tano.jpg",
+      "ImagenPortada": "",
+      "ImagenListado": "",
+      "Nombre": "El Tano Romero",
+      "Fecha": "Viernes 23 de Septiembre 23.50hs",
+      "Lugar": "El Perla Eventos",
+      "Codigo": "SHOW006018",
+      "Categorias": "[\"todos\",\"CUA\"]",
+      "Espectaculos": [
+        {
+          "Codigo": "FUNC021036",
+          "Fecha": "2022-09-23T23:30:00",
+          "FechaString": "23 de septiembre",
+          "DiaString": "23",
+          "MesString": "septiembre",
+          "HoraString": "23:30 Hs",
+          "Ciudad": "Villa Nueva",
+          "Estadio": "El Perla Eventos"
+        }
+      ],
+      "FechaPrimerEspectaculo": "20220923"
     }
   ],
   "EventosNuevos": [],
