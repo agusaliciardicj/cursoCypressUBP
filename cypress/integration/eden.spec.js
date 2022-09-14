@@ -39,6 +39,9 @@ describe("Test de Página Eden", () => {
             .should("be.visible")
             .and("contain.text", infoEvento.Fecha)
             .and("contain.text", infoEvento.Lugar);
+          eden
+            .getShowDate()
+            .should("have.css", "background-color", "rgba(23, 57, 100, 0.99)");
         }
       });
     });
