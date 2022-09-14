@@ -14,7 +14,7 @@ describe("Test de Página Eden", () => {
     );
   });
 
-  it("Verificar las cards de los espectáculos", () => {
+  it("Verificar las cards de los espectáculos", { tags: "@regression" }, () => {
     const eden = new EdenPage();
 
     cy.visit("https://www.edenentradas.com.ar/sitio/contenido/inicio");
