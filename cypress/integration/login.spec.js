@@ -10,27 +10,23 @@ describe("Test de Login", () => {
     cy.visit("https://automationteststore.com/");
   });
 
-  it(
-    "Login fail - Wrong User & pass",
-    { tags: ["@regression", "@smoke"] },
-    () => {
-      const header = new HeaderPage();
-      const login = new LoginPage();
+  it("Login fail - Wrong User & pass", () => {
+    const header = new HeaderPage();
+    const login = new LoginPage();
 
-      if (anchoPantalla < 700) {
-        //pasos para mobile
-      }
-      header.getLoginRegisterButon().click();
-
-      login.getUserInput().type("HolaMundo");
-      login.getPassInput().type("HolaMundo");
-      login.getLoginBtn().click();
-
-      login
-        .getAlertBox()
-        .should("contain.text", "Error: Incorrect login or password provided.");
+    if (anchoPantalla < 700) {
+      //pasos para mobile
     }
-  );
+    header.getLoginRegisterButon().click();
+
+    login.getUserInput().type("HolaMundo");
+    login.getPassInput().type("HolaMundo");
+    login.getLoginBtn().click();
+
+    login
+      .getAlertBox()
+      .should("contain.text", "Error: Incorrect login or password provided.");
+  });
 
   it("Visual testing de Login", () => {
     const header = new HeaderPage();
