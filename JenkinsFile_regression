@@ -28,7 +28,7 @@ pipeline {
         stage('Send Email') {
             steps {
                 mail bcc: '', 
-                body: "<b>Automation en Cypress de Tienda V9</b><br>Proyecto: ${env.JOB_NAME} <br> Número de Build: ${env.BUILD_NUMBER} <br> URL de build: ${env.BUILD_URL} <br> Reporte: ${env.BUILD_URL}execution/node/3/ws/cypress/reports/ <br> Duración: ${currentBuild.durationString.replace(' and counting', '')} <br>", 
+                body: "<b>Automation en Cypress de</b><br>Proyecto: ${env.JOB_NAME} <br> Número de Build: ${env.BUILD_NUMBER} <br> URL de build: ${env.BUILD_URL} <br> Reporte: ${env.BUILD_URL}execution/node/3/ws/cypress/reports/ <br> Duración: ${currentBuild.durationString.replace(' and counting', '')} <br>", 
                 cc: '', 
                 charset: 'UTF-8', 
                 from: '', 
