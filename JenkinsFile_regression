@@ -1,0 +1,42 @@
+pipeline {
+    agent { label 'nombreDelPipePreCreadoEnJenkins' }
+
+    tools {nodejs 'node'}
+
+    environment {
+        CHROME_BIN = '/bin/google-chrome'
+    }
+
+    stages {
+        stage('Dependencies') {
+            steps {
+                sh 'npm ci'
+            }
+        }
+        stage('Test Execution in Desktop') {
+            steps {
+                catchError(buildResult: 'SUCCESS', stageResult: 'FAILURE'){
+                sh 'cypress:run:regression:desktop:test'}
+            }
+        }
+        stage('Test Execution in Mobile') {
+            steps {
+                catchError(buildResult: 'SUCCESS', stageResult: 'FAILURE'){
+                sh 'cypress:run:regression:mobile:test'}
+            }
+        }
+        stage('Send Email') {
+            steps {
+                mail bcc: '', 
+                body: "<b>Automation en Cypress de Tienda V9</b><br>Proyecto: ${env.JOB_NAME} <br> Número de Build: ${env.BUILD_NUMBER} <br> URL de build: ${env.BUILD_URL} <br> Reporte: ${env.BUILD_URL}execution/node/3/ws/cypress/reports/ <br> Duración: ${currentBuild.durationString.replace(' and counting', '')} <br>", 
+                cc: '', 
+                charset: 'UTF-8', 
+                from: '', 
+                mimeType: 'text/html', 
+                replyTo: '', 
+                subject: "Automation en Cypress de Tienda V9: ${env.JOB_NAME}", 
+                to: "nombre.apellido@email.com";
+            }
+        }
+    }
+}

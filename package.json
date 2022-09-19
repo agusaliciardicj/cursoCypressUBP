@@ -7,7 +7,8 @@
     "cypress:open:desktop:test": "npx cypress open -e baseUrl=https://automationteststore.com/",
     "cypress:open:desktop:test:baseline": "npx cypress open -e baseUrl=https://automationteststore.com/,updateSnapshots=true",
     "cypress:open:mobile:test": "npx cypress open -c viewportWidth=375,viewportHeight=667,userAgent=\"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X)\" -e baseUrl=https://automationteststore.com/",
-    "cypress:run:regression:desktop:test": "npx cypress run -e baseUrl=https://automationteststore.com/,grepTags=@regression -s cypress/integration/*.spec.js"
+    "cypress:run:regression:desktop:test": "npx cypress run -e baseUrl=https://automationteststore.com/,grepTags=@regression -s cypress/integration/*.spec.js",
+    "cypress:run:regression:mobile:test": "npx cypress run -c viewportWidth=375,viewportHeight=667,userAgent=\"Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X)\" -e baseUrl=https://automationteststore.com/,grepTags=@regression -s cypress/integration/*.spec.js"
   },
   "repository": {
     "type": "git",
